@@ -18,7 +18,7 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
 
 <div align="center">
-<img src="https://crehana-blog.imgix.net/media/filer_public/a5/52/a5524cdd-6727-45e5-8920-ead88232d1b4/software-programacion.jpg?auto=format&q=50" width="600">
+<img src="https://crehana-blog.imgix.net/media/filer_public/a5/52/a5524cdd-6727-45e5-8920-ead88232d1b4/software-programacion.jpg?auto=format&q=50" width="400">
   
 # Conceitos Gerais:
 **Requisitos do Sistema:** Descrição das funções e restrições que definem o que o sistema deve fazer e como deve operar.
@@ -65,7 +65,7 @@ Estes são alguns dos principais conceitos e tipos de requisitos na engenharia d
 
 Histórico | Notas de implementação
 ----------|--------------------
-Nome      |  Idieas
+Nome      |  Ideias
 data      | Implementação
 versão    | Elaboração
 
