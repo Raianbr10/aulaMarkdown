@@ -63,11 +63,11 @@ Estes são alguns dos principais conceitos e tipos de requisitos na engenharia d
 
 ## use case
 
-Histórico | Notas de implementação
-----------|--------------------
-Nome      |  Ideias
-data      | Implementação
-versão    | Elaboração
+Use case  | use case Essentials| use case Primaries                                                                                  
+----------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------- |
+Foco      |os use case essentials concentram-se nos requisitos básicos e essenciais do sistema, descrevendo as principais funcionalidades que o sistema deve oferecer. |Os casos de uso primários descrevem as principais interações entre o usuário e o sistema, concentrando-se nas atividades principais que o usuário realiza.
+Escopo    |  Eles capturam os requisitos principais do sistema, geralmente identificando as funcionalidades de alto nível.                                             | Eles detalham as funcionalidades principais do sistema, geralmente identificando os principais fluxos de trabalho ou processos de negócios.             
+Exemplo   |  Um caso de uso essencial para um sistema de e-commerce pode ser "Realizar Compra", descrevendo como um usuário realiza uma compra no site.                |  Para um sistema de gerenciamento de biblioteca, um caso de uso primário pode ser "Registrar Livro", descrevendo como um bibliotecário registra um novo livro no sistema.                                
 
 
 
